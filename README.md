@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aneesh-krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesh-krishna" height="30" width="40" /></a>
-<a href="https://kaggle.com/aneesh krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aneesh krishna" height="30" width="40" /></a>
+<a href="https://kaggle.com/aneeshkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aneesh krishna" height="30" width="40" /></a>
 <a href="https://instagram.com/_aneesh__krishna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aneesh__krishna_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prometheus_4739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prometheus_4739" height="30" width="40" /></a>
 </p>
