@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aneesh Krishna</h1>
-<h3 align="center">Graduate student in Data Science at University at Buffalo, actively seeking Summer Internships. Passionate about extracting meaningful insights from meaniningless data. Proficient in Python, Data Engineering, Data Visualization, SQL, and Machine Learning. Committed to continuous learning and professional growth in the field.</h3>
+<h3 align="center">Graduate student in Data Science at University at Buffalo, actively seeking Summer Internships. Passionate about extracting meaningful insights from meaniningless data. Proficient in Python, Data Engineering, Data Visualization, SQL, Machine Learning, LLM and Prompt Engineering. Committed to continuous learning and professional growth in the field.</h3>
 
 
 
